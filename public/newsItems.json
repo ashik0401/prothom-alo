@@ -1,0 +1,63 @@
+[
+    {
+    "id": 101,
+    "shortTitle": "Tigers' Roar:",
+    "title": "Bangladesh secures historic series victory against World Champions",
+    "description": "In a thrilling finale at Mirpur, the Bangladesh cricket team defeated the visiting giants by 5 wickets to clinch the three-match ODI series 2-1....",
+    "longDescription": "In a historic match at Mirpur, Bangladesh Cricket Team defeated the visiting world champions by 5 wickets. The game was intense and saw incredible performances by key players. Fans celebrated the historic series victory across the country. Full details include player statistics, expert analysis, and post-match interviews.",
+    "image": "https://www.bssnews.net/assets/news_photos/2024/12/29/image-234179-1735461333.jpg",
+    "caption": "Tigers celebrates after taking a crucial wicket. Photo: ICC/Getty Images",
+    "type": "split",
+    "date": "2026-01-07"
+  },
+  {
+    "id": 1,
+    "title": "Pakistan's PM visits Bangladesh High Commission to offer condolences",
+    "description": "Shehbaz Sharif expressed deep grief over the passing of former Prime Minister Khaleda Zia.",
+    "longDescription": "Pakistan's Prime Minister Shehbaz Sharif visited the Bangladesh High Commission in Dhaka to offer condolences over the passing of former Prime Minister Khaleda Zia. He expressed deep grief and highlighted the longstanding ties between the two countries.",
+    "image": "https://picsum.photos/seed/p1/600/400",
+    "date": "2026-01-07",
+    "type": "split"
+  },
+  {
+    "id": 2,
+    "title": "JnUCSU election to be held today after a gap of 21 years",
+    "description": "Jagannath University students are set to vote in a historic student union election today.",
+    "longDescription": "After 21 years, Jagannath University will hold its historic student union elections. The student body hopes for greater participation and transparency, as the election promises a new chapter in campus politics.",
+    "image": "https://picsum.photos/seed/p2/600/400",
+    "date": "2026-01-07",
+    "type": "split"
+  },
+  {
+    "id": 3,
+    "title": "Commission recommends reform of intelligence agencies",
+    "description": "The Police Reform Commission suggests major structural changes to improve transparency.",
+    "longDescription": "The Police Reform Commission has proposed sweeping reforms for intelligence agencies to enhance transparency and accountability. The recommendations include restructuring and adopting modern technologies for better efficiency.",
+    "date": "2026-01-06",
+    "type": "text"
+  },
+  {
+    "id": 4,
+    "title": "ICC T20 World Cup: Bangladesh not to play in India",
+    "description": "BCB official confirms that the team will not travel to India due to security concerns.",
+    "longDescription": "The Bangladesh Cricket Board has confirmed that the national team will not participate in matches in India during the ICC T20 World Cup due to security concerns. Alternatives for hosting the games are being considered.",
+    "date": "2026-01-06",
+    "type": "text"
+  },
+  {
+    "id": 5,
+    "title": "Inflation rises to 8.49pc in December",
+    "description": "High food prices continue to put pressure on low-income household budgets across the country.",
+    "longDescription": "Inflation surged to 8.49% in December, mainly driven by rising food prices. Economists warn that low-income households are disproportionately affected, urging policy adjustments to mitigate the impact.",
+    "date": "2026-01-05",
+    "type": "text"
+  },
+  {
+    "id": 6,
+    "title": "Tarique Rahman to become BNP chairman soon",
+    "description": "Fakhrul Alamgir states the transition of leadership will occur within a day or two.",
+    "longDescription": "Fakhrul Alamgir confirmed that Tarique Rahman is set to take over as chairman of BNP soon. The transition marks a new leadership era for the party, with implications for upcoming political strategies.",
+    "date": "2026-01-05",
+    "type": "text"
+  }
+]

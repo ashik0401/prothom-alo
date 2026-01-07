@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "title": "Budget Discussion Highlights New Tax Plans",
+    "description": "The upcoming budget may offer tax relief for middle-class citizens.",
+    "longDescription": "Full details on the new tax proposals, analysis from economists, and reactions from citizens.",
+    "image": "https://images.template.net/520344/Event-Planning-Gantt-Chart-Template-edit-online.png",
+    "date": "2026-01-07"
+  },
+  {
+    "id": 2,
+    "title": "Dollar Shortage Affects Imports",
+    "description": "Reduced dollar supply in banking sector is delaying raw material imports.",
+    "longDescription": "The shortage of dollars is causing delays in imports of critical raw materials. Businesses are worried about production schedules.",
+    "image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a",
+    "date": "2026-01-06"
+  },
+  {
+    "id": 3,
+    "title": "Electoral Reform Proposal Introduced",
+    "description": "The Election Commission proposed reforms that are being debated politically.",
+    "longDescription": "The new reforms aim to modernize voting processes, improve transparency, and ensure fair elections.",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c",
+    "date": "2026-01-05"
+  },
+  {
+    "id": 4,
+    "title": "Stock Market Sees Sharp Decline",
+    "description": "Investor uncertainty leads to 120-point drop in the index.",
+    "longDescription": "Stocks dropped sharply as investors reacted to economic uncertainty. Market analysts provide insights and predictions.",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf",
+    "date": "2026-01-05"
+  },
+  {
+    "id": 5,
+    "title": "Tech Sector Attracts New Investments",
+    "description": "Foreign investments in startups are increasing according to ICT ministry.",
+    "longDescription": "Startups in the tech sector are receiving record foreign investment. Government policies and market trends are discussed.",
+    "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f",
+    "date": "2026-01-04"
+  },
+  {
+    "id": 6,
+    "title": "Heatwave Disrupts Daily Life",
+    "description": "Schools and offices see low attendance due to intense heat.",
+    "longDescription": "Extreme temperatures are affecting daily routines. Authorities warn citizens and suggest precautionary measures.",
+    "date": "2026-01-03"
+  },
+  {
+    "id": 7,
+    "title": "Multiple Changes In Cricket Team",
+    "description": "Two regular players will miss upcoming series due to injury.",
+    "longDescription": "Team management announces changes and replacement strategies. Fans react to player absence.",
+    "date": "2026-01-02"
+  },
+  {
+    "id": 8,
+    "title": "New Flyover Inaugurated",
+    "description": "A new flyover has been opened to reduce city traffic congestion.",
+    "longDescription": "City officials inaugurate the flyover. Traffic impact, future projects, and public reactions discussed.",
+    "date": "2026-01-01"
+  }
+]
