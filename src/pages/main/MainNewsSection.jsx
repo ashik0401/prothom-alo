@@ -75,7 +75,7 @@ export default function MainNewsSection() {
   );
 
   return (
-    <section className="max-w-7xl mx-auto px-4 space-y-0 font-serif text-gray-800">
+    <section className="max-w-7xl mx-auto  space-y-0 font-serif text-gray-800">
       <div className="grid md:grid-cols-2 border-b border-gray-300 py-6">
         {section1.map(renderSection1)}
       </div>

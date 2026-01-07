@@ -6,7 +6,7 @@ import RightSideNews from "../components/RightSideNews"
 export default function Home() {
 
   return (
-    <div className="bg-white max-w-7xl mx-auto px-4">
+    <div className="bg-white max-w-7xl mx-auto ">
       <main className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 border-t-2 border-gray-300">
         
         <div className="order-3 md:order-1 lg:order-1">

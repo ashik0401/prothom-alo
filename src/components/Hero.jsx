@@ -19,7 +19,7 @@ const CricketHero = () => {
   };
 
   return (
-    <section className="mx-auto font-serif border-b border-gray-300 pb-8 mb-8 w-11/12">
+    <section className="mx-auto font-serif border-b border-gray-300 pb-8 mb-8 md:w-11/12">
       <div className="flex flex-col gap-3 lg:flex-row justify-between">
         <div className="w-full lg:w-3/5 cursor-pointer" onClick={handleClick}>
           <div className="relative overflow-hidden">
